@@ -34,7 +34,7 @@ SetCompressor lzma
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
 OutFile "NSIS 설치(7z플러그인 포함).exe"
-InstallDir "설치할 디렉토를 선책해주세요"
+InstallDir "설치할 디렉토리를 선책해주세요"
 ShowInstDetails show
 
 Section "메인 NSIS 프로그램" SEC01
